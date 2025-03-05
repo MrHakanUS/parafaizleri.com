@@ -1,4 +1,1 @@
-<IfModule mod_rewrite.c>
-	RewriteEngine On
-	RewriteRule ^(.*)$ /index.php [L]
-</IfModule>
+Redirect 301 / https://ihtiyackredisi.com
